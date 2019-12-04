@@ -15,3 +15,4 @@ def about():
     """URL for about section."""
 
     return render_template('about.html')
+
