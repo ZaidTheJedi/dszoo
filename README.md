@@ -27,3 +27,4 @@ Utilizando [_Flask_](https://palletsprojects.com/p/flask/) crearemos una aplicac
 ## Licencia
 
 Este proyecto se encuentra en desarrollo bajo una licencia MIT.
+
